@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+.centro {
+    text-align: center;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+.inverso {
+    background-color: #7e7e7e;
+    color: white;
+}
+
+.realce {
+    font-weight: bolder;
+}
